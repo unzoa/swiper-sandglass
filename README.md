@@ -8,6 +8,10 @@
 
 ## 使用
 
+```bash
+npm i swiper-sandglass
+```
+
 ```js
 <SandGlassData
   ref="sandglass"
