@@ -1,0 +1,34 @@
+{
+  "name": "swiper-sandglass",
+  "version": "1.0.0",
+  "description": "应用于大数据展示时，列表滚动类型的模块。",
+  "main": "index.js",
+  "access": "public",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unzoa/swiper-sandglass.git"
+  },
+  "keywords": [
+    "vue",
+    "swiper",
+    "sandglass",
+    "scroll",
+    "play",
+    "pause"
+  ],
+  "author": "unzoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unzoa/swiper-sandglass/issues"
+  },
+  "homepage": "https://github.com/unzoa/swiper-sandglass#readme",
+  "files": [
+    "index.js",
+    "package.json",
+    "SandGlassData.vue",
+    "README.md"
+  ]
+}
